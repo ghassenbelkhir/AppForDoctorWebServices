@@ -1,0 +1,317 @@
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ApplicationInsights.config
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csc.exe
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csc.exe.config
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csc.rsp
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csi.exe
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csi.rsp
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.AppContext.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.Collections.Immutable.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.IO.FileSystem.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.Reflection.Metadata.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\vbc.exe
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\vbc.exe.config
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\vbc.rsp
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\VBCSCompiler.exe
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\VBCSCompiler.exe.config
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\AppForDoctorWebServices.dll.config
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\AppForDoctorWebServices.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\AppForDoctorWebServices.pdb
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlcese40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceqp40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceme40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceer40EN.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlcecompact40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceca40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlcese40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceqp40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceme40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceer40EN.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlcecompact40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceca40.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Antlr3.Runtime.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServer.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServerCompact.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.Agent.Intercept.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.DependencyCollector.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.Web.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.WindowsServer.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.ApplicationInsights.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Web.Infrastructure.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Newtonsoft.Json.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Data.SqlServerCe.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Net.Http.Formatting.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Helpers.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.WebHost.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Mvc.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Optimization.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Razor.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Deployment.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Razor.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\WebGrease.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServer.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServerCompact.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Newtonsoft.Json.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Net.Http.Formatting.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Helpers.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.WebHost.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Mvc.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Optimization.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Razor.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Deployment.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Razor.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Antlr3.Runtime.pdb
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.ApplicationInsights.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.DependencyCollector.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.WindowsServer.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.Web.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Net.Http.Formatting.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Helpers.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Http.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Http.WebHost.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Mvc.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Optimization.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Razor.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.WebPages.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.pdb
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.bla.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.csproj.GenerateResource.Cache
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.blap.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.blapp.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.blappo.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.koi.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.koip.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chala.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalao.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalaopa.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalaopam.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.Edm.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.OData.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Spatial.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.OData.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.Edm.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.OData.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Spatial.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.OData.xml
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\de\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\es\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\it\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\de\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\es\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\it\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ja\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ko\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ru\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\de\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\es\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\it\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ja\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ko\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\ru\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hans\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hant\System.Spatial.resources.dll
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.csprojResolveAssemblyReference.cache
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalaopamo.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.news.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.go.resources
+F:\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.gom.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ApplicationInsights.config
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csc.exe
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csc.exe.config
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csc.rsp
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csi.exe
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\csi.rsp
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.AppContext.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.Collections.Immutable.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.IO.FileSystem.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\vbc.exe
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\vbc.exe.config
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\vbc.rsp
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\VBCSCompiler.exe
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\roslyn\VBCSCompiler.exe.config
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\AppForDoctorWebServices.dll.config
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\AppForDoctorWebServices.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\AppForDoctorWebServices.pdb
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlcese40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceqp40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceme40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceer40EN.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlcecompact40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\sqlceca40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlcese40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceqp40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceme40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceer40EN.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlcecompact40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\sqlceca40.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Antlr3.Runtime.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServer.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServerCompact.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.Web.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.WindowsServer.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.ApplicationInsights.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.Edm.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.OData.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Web.Infrastructure.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Newtonsoft.Json.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Data.SqlServerCe.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Net.Http.Formatting.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Spatial.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Helpers.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.OData.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.WebHost.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Mvc.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Optimization.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Razor.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Deployment.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Razor.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\WebGrease.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServer.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\EntityFramework.SqlServerCompact.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.Edm.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.Data.OData.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Spatial.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.OData.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Newtonsoft.Json.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Net.Http.Formatting.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Helpers.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Http.WebHost.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Mvc.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Optimization.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.Razor.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Deployment.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\System.Web.WebPages.Razor.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Antlr3.Runtime.pdb
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.ApplicationInsights.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.WindowsServer.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\Microsoft.AI.Web.xml
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\de\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\es\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\it\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ja\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ko\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\ru\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Net.Http.Formatting.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Helpers.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Http.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Http.WebHost.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Mvc.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Optimization.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.Razor.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.WebPages.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.csprojResolveAssemblyReference.cache
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.bla.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.blap.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.blapp.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.blappo.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.koi.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.koip.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chala.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalao.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalaopa.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalaopam.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.chalaopamo.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.news.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.go.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.Migrations.gom.resources
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.csproj.GenerateResource.Cache
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.csproj.CoreCompileInputs.cache
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.dll
+E:\Ghassen Belkhir\AppForDoctorWebServices\AppForDoctorWebServices\obj\Debug\AppForDoctorWebServices.pdb
